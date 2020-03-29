@@ -1,4 +1,3 @@
-
 # Seaborn - Lab
 
 ## Introduction
